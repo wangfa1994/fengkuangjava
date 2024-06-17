@@ -1,0 +1,2 @@
+普通字符串
+unit15_javaio.c5.RedirectOut@7291c18f
