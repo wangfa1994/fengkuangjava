@@ -1,0 +1,2 @@
+普通字符串
+unit15_javaio.c4.DealStreamTest@17a7cec2
