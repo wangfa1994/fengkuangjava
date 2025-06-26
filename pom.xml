@@ -11,6 +11,7 @@
     <modules>
         <module>oldjdk</module>
         <module>fengkuang</module>
+        <module>jucmic</module>
     </modules>
 
     <properties>

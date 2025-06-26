@@ -1,6 +1,7 @@
 ##ignore this file##
 /bin/
-/target/ 
+/target/
+**/target/
 
 .classpath
 .project

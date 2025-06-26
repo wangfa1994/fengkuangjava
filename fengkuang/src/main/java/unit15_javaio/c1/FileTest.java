@@ -7,6 +7,9 @@ import java.io.IOException;
  *  Java 的标准库为不同类型的资源提供了不同的访问机制：例如，对于文件系统中的资源，我们可能使用 java.io.File；
  *  对于 classpath 中的资源，我们可能使用 ClassLoader 的 getResource 或 getResourceAsStream 方法；
  *  对于网络资源，我们可能使用 java.net.URL。
+ *
+ *  常见的工具类：hutool中关于file的操作
+ *
  */
 public class FileTest {
 	public static void main(String[] args) throws IOException {
